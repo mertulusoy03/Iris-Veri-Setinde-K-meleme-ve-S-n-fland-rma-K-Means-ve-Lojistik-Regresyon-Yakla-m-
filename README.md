@@ -41,7 +41,8 @@ Bu proje, klasik makine öğrenmesi algoritmaları olan **K-Means Kümeleme** ve
    - Eğitim ve test seti ayrımı (%80-%20), model eğitimi ve doğruluk/performans metriklerinin raporlanması.
 
 4. **Görselleştirme:**  
-   - Sonuçlar grafiklerle desteklenmiştir.
+   <img width="373" height="248" alt="image" src="https://github.com/user-attachments/assets/2c22f8e0-e1db-4166-978e-fe83b4868055" />
+
 
 ## Sonuçlar
 
